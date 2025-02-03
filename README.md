@@ -3,6 +3,7 @@ This project focuses on analyzing and predicting the Air Quality Index (AQI) of 
 This project focuses on analyzing and predicting the Air Quality Index (AQI) of various Indian cities using historical air quality data.
 
 The dataset is avaible on kaggle this is the link: https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
+
 city_day csv
 city_hour csv
 station_day csv
